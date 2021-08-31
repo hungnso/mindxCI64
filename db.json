@@ -1,0 +1,288 @@
+{
+  "quizzes": {
+    "html": [
+      {
+        "questionTitle": "Trắc nghiệm HTML cơ bản",
+        "quizNumber": "Câu 1",
+        "answers": ["A. alt", "B. src", "C. title", "D. longdesc"],
+        "rightAnswer": "A",
+        "quiz": "Thuộc tính HTML nào xác định một văn bản sẽ dùng thay thế cho hình ảnh, nếu hình ảnh không thể được hiển thị?",
+        "a": "A. alt",
+        "b": "B. src",
+        "c": "C. title",
+        "d": "D. longdesc"
+      },
+      {
+        "quizNumber": "Câu 2",
+        "answers": [
+          "A. Hoàn toàn giống nhau",
+          "B. Chỉ khác ở cái tên nhưng đều chứa thẻ con &lt;li>",
+          "C. &lt;ul> dùng để tạo menu còn < ol > thì ít ai dùng",
+          "D. &lt;ul> định nghĩa các &lt;li> không thứ tự còn &lt;ol> thì có thứ tự"
+        ],
+        "rightAnswer": "D",
+        "quiz": "Thẻ `&lt;ol>` và '&lt;ul>' khác nhau chỗ nào?",
+        "a": "A. Hoàn toàn giống nhau",
+        "b": "B. Chỉ khác ở cái tên nhưng đều chứa thẻ con &lt;li>",
+        "c": "C. &lt;ul> dùng để tạo menu còn < ol > thì ít ai dùng",
+        "d": "D. &lt;ul> định nghĩa các &lt;li> không thứ tự còn &lt;ol> thì có thứ tự"
+      },
+      {
+        "quizNumber": "Câu 3",
+        "answers": [
+          "A. '&lt;select>'",
+          "B. '&lt;list>'",
+          "C. '&lt;input type=\"list\">'",
+          "D. '&lt;input type=\"dropdown\">'"
+        ],
+        "rightAnswer": "A",
+        "quiz": "Thẻ HTML nào tạo ra một danh sách đổ xuống (drop-down list)?",
+        "a": "A. '&lt;select>'",
+        "b": "B. '&lt;list>'",
+        "c": "C. '&lt;input type=\"list\">'",
+        "d": "D. '&lt;input type=\"dropdown\">'"
+      },
+      {
+        "quizNumber": "Câu 4",
+        "answers": ["A. &lt;lb>", "B. &lt;br>", "C. &lt;break>", "D. &lt;p>"],
+        "rightAnswer": "B",
+        "quiz": "Phần tử HTML nào thực hiện xuống dòng mới?",
+        "a": "A. &lt;lb>",
+        "b": "B. &lt;br>",
+        "c": "C. &lt;break>",
+        "d": "D. &lt;p>"
+      },
+      {
+        "quizNumber": "Câu 5",
+        "answers": [
+          "A. &lt;img >image.gif&lt;/img>",
+          "B. &lt;img src=\"image.gif\">",
+          "C. &lt;image src=\"image.gif\">",
+          "D. &lt;img href=\"image.gif>"
+        ],
+        "rightAnswer": "B",
+        "quiz": "Thẻ HTML nào dùng để chèn hình ảnh vào trang web?",
+        "a": "A. &lt;img >image.gif&lt;/img>",
+        "b": "B. &lt;img src=\"image.gif\">",
+        "c": "C. &lt;image src=\"image.gif\">",
+        "d": "D. &lt;img href=\"image.gif>"
+      },
+      {
+        "quizNumber": "Câu 6",
+        "answers": [
+          "A. &lt;a>http://www.timoday.edu.vn&lt;/a>",
+          "B. &lt;a name=\"http://www.timoday.edu.vn\">Tìm ở đây&lt;/a>",
+          "C. &lt;a url=\"http://www.timoday.edu.vn\">Tìm ở đây&lt;/a>",
+          "D. &lt;a href=\"http://www.timoday.edu.vn\">Tìm ở đây&lt;/a>"
+        ],
+        "rightAnswer": "D",
+        "quiz": "Đoạn HTML nào là đúng để tạo một liên kết?",
+        "a": "A. &lt;a>http://www.timoday.edu.vn&lt;/a>",
+        "b": "B. &lt;a name=\"http://www.timoday.edu.vn\">Tìm ở đây&lt;/a>",
+        "c": "C. &lt;a url=\"http://www.timoday.edu.vn\">Tìm ở đây&lt;/a>",
+        "d": "D. &lt;a href=\"http://www.timoday.edu.vn\">Tìm ở đây&lt;/a>"
+      },
+      {
+        "quizNumber": "Câu 7",
+        "answers": ["A. &lt;list>", "B. &lt;ul>", "C. &lt;dl>", "D. &lt;ol>"],
+        "rightAnswer": "D",
+        "quiz": "Đâu là phần tử HTML tạo ra 1 danh sách đầu mục bằng số?",
+        "a": "A. &lt;list>",
+        "b": "B. &lt;ul>",
+        "c": "C. &lt;dl>",
+        "d": "D. &lt;ol>"
+      },
+      {
+        "quizNumber": "Câu 8",
+        "answers": [
+          "A. &lt;heading>",
+          "B. &lt;h6>",
+          "C. &lt;h1>",
+          "D. &lt;head>"
+        ],
+        "rightAnswer": "C",
+        "quiz": "Chọn phần tử HTML nào đúng nhất cho định dạng tiêu đề là lớn nhất?",
+        "a": "A. &lt;heading>",
+        "b": "B. &lt;h6>",
+        "c": "C. &lt;h1>",
+        "d": "D. &lt;head>"
+      },
+      {
+        "quizNumber": "Câu 9",
+        "answers": ["A. <", "B. ^", "C. *", "D. /"],
+        "rightAnswer": "D",
+        "quiz": "Ký tự nào dùng để kết thúc một thẻ trong HTML?",
+        "a": "A. <",
+        "b": "B. ^",
+        "c": "C. *",
+        "d": "D. /"
+      },
+      {
+        "quizNumber": "Câu 10",
+        "answers": [
+          "A. &lt;strong>",
+          "B. &lt;b>",
+          "C. &lt;i>",
+          "D. &lt;important>"
+        ],
+        "rightAnswer": "A",
+        "quiz": "Chọn phần tử HTML đúng nhất để diễn mức quan trọng của văn bản?",
+        "a": "A. &lt;strong>",
+        "b": "B. &lt;b>",
+        "c": "C. &lt;i>",
+        "d": "D. &lt;important>"
+      },
+      {
+        "quizNumber": "Câu 11",
+        "answers": [
+          "A. Hoàn toàn giống nhau",
+          "B. Chỉ khác ở cái tên nhưng đều chứa thẻ con &lt;li>",
+          "C. &lt;ul> dùng để tạo menu còn &lt;ol> thì ít ai dùng",
+          "D. &lt;ul> định nghĩa các &lt;li> không thứ tự, &lt;ol> có thứ tự"
+        ],
+        "rightAnswer": "D",
+        "quiz": "Thẻ &lt;ol> và &lt;ul> khác nhau chỗ nào?",
+        "a": "A. Hoàn toàn giống nhau",
+        "b": "B. Chỉ khác ở cái tên nhưng đều chứa thẻ con &lt;li>",
+        "c": "C. &lt;ul> dùng để tạo menu còn &lt;ol> thì ít ai dùng",
+        "d": "D. &lt;ul> định nghĩa các &lt;li> không thứ tự còn &lt;ol> thì có thứ tự"
+      },
+      {
+        "quizNumber": "Câu 12",
+        "answers": [
+          "A. Để chứa 1 tiêu đề cho một chương mục, bài báo..",
+          "B. Để đánh dấu phần đầu của nội dung",
+          "C. Để sử dụng trong &lt;table> làm tiêu đề",
+          "D. Để sử dụng trong &lt;ul> làm tiêu đề"
+        ],
+        "rightAnswer": "C",
+        "quiz": "Thẻ &lt;caption> được dùng như thế nào",
+        "a": "A. Để chứa 1 tiêu đề cho một chương mục, bài báo..",
+        "b": "B. Để đánh dấu phần đầu của nội dung",
+        "c": "C. Để sử dụng trong &lt;table> làm tiêu đề",
+        "d": "D. Để sử dụng trong &lt;ul> làm tiêu đề"
+      },
+      {
+        "quizNumber": "Câu 13",
+        "answers": [
+          "A. Dùng để định nghĩa các phần đầu đề trong HTML",
+          "B. Dùng để chọn độ lớn của kích thước chữ trong HTML cho thiết kế",
+          "C. Dùng để định nghĩa kích thước tiêu chuẩn của chữ trong HTML",
+          "D. Tùy trường hợp mà dùng"
+        ],
+        "rightAnswer": "A",
+        "quiz": "Các thẻ từ &lt;h1> đến &lt;h6> dùng để làm gì?",
+        "a": "A. Dùng để định nghĩa các phần đầu đề trong HTML",
+        "b": "B. Dùng để chọn độ lớn của kích thước chữ trong HTML cho thiết kế",
+        "c": "C. Dùng để định nghĩa kích thước tiêu chuẩn của chữ trong HTML",
+        "d": "D. Tùy trường hợp mà dùng"
+      },
+      {
+        "quizNumber": "Câu 14",
+        "answers": [
+          "A. Chỉ có tác dụng canh giữ chữ",
+          "B. Chỉ có tác dụng canh giữa thẻ &lt;div>",
+          "C. Chỉ có tác dụng canh giữa các thẻ văn bản",
+          "D. Chỉ có tác dụng tương tự { text-align: center; } trong CSS"
+        ],
+        "rightAnswer": "D",
+        "quiz": "Thẻ &lt;center> có tác dụng như thế nào?",
+        "a": "A. Chỉ có tác dụng canh giữ chữ",
+        "b": "B. Chỉ có tác dụng canh giữa thẻ &lt;div>",
+        "c": "C. Chỉ có tác dụng canh giữa các thẻ văn bản",
+        "d": "D. Chỉ có tác dụng tương tự { text-align: center; } trong CSS"
+      },
+      {
+        "quizNumber": "Câu 15",
+        "answers": [
+          "A. Hiển thị đường dẫn trước đó mà người dùng đã truy cập trước đó",
+          "B. Hiển thị đúng văn bản đã được định dạng sẵn trong HTML",
+          "C. Dùng để hiển thị trước nội dung đã được gõ trong textarea",
+          "D. Dùng để hiển thị số khoảng trắng tùy ý"
+        ],
+        "rightAnswer": "B",
+        "quiz": "Thẻ &lt;pre> dùng thể làm gì?",
+        "a": "A. Hiển thị đường dẫn trước đó mà người dùng đã truy cập trước đó",
+        "b": "B. Hiển thị đúng văn bản đã được định dạng sẵn trong HTML",
+        "c": "C. Dùng để hiển thị trước nội dung đã được gõ trong textarea",
+        "d": "D. Dùng để hiển thị số khoảng trắng tùy ý"
+      },
+      {
+        "quizNumber": "Câu 16",
+        "answers": [
+          "A. Hyperlinks and Text Markup Language",
+          "B. Home Tool Markup Language",
+          "C. Hyper Text Markup Language",
+          "D. Hát tê mờ lờ"
+        ],
+        "rightAnswer": "C",
+        "quiz": "Chuẩn HTML là cho cái gì?",
+        "a": "A. Hyperlinks and Text Markup Language",
+        "b": "B. Home Tool Markup Language",
+        "c": "C. Hyper Text Markup Language",
+        "d": "D. Hát tê mờ lờ"
+      },
+      {
+        "quizNumber": "Câu 17",
+        "answers": [
+          "A. &lt;body style=\"background-color:yellow;\">",
+          "B. &lt;body bg=\"yellow\">",
+          "C. &lt;background>yellow< /background>",
+          "D. &lt;body style=\"color:yellow;\">"
+        ],
+        "rightAnswer": "A",
+        "quiz": "Đoạn mã HTML nào thực hiện việc thêm màu nền cho trang web?",
+        "a": "A. &lt;body style=\"background-color:yellow;\">",
+        "b": "B. &lt;body bg=\"yellow\">",
+        "c": "C. &lt;background>yellow< /background>",
+        "d": "D. &lt;body style=\"color:yellow;\">"
+      },
+      {
+        "quizNumber": "Câu 18",
+        "answers": [
+          "A. Tạo một textbox cho phép nhập liệu nhiều dòng",
+          "B. Tạo một ô text để nhập dữ liệu 1 dòng",
+          "C. Tạo một ô nhập mật khẩu",
+          "D. Tất cả các ý trên"
+        ],
+        "rightAnswer": "C",
+        "quiz": "Thẻ &lt;input type=”Password” …> dùng để làm gì?",
+        "a": "A. Tạo một textbox cho phép nhập liệu nhiều dòng",
+        "b": "B. Tạo một ô text để nhập dữ liệu 1 dòng",
+        "c": "C. Tạo một ô nhập mật khẩu",
+        "d": "D. Tất cả các ý trên"
+      },
+      {
+        "quizNumber": "Câu 19",
+        "answers": [
+          "A. &lt;meta>",
+          "B. &lt;title>",
+          "C. &lt;head>",
+          "D. &lt;link>"
+        ],
+        "rightAnswer": "B",
+        "quiz": "Phần tử HTML nào định nghĩa dữ liệu sẽ hiển thị trên thanh tiêu đề của tài liệu?",
+        "a": "A. &lt;meta>",
+        "b": "B. &lt;title>",
+        "c": "C. &lt;head>",
+        "d": "D. &lt;link>"
+      },
+      {
+        "quizNumber": "Câu 20",
+        "answers": [
+          "A. &lt;a href=\"url\" target=\"new\">",
+          "B. &lt;a href=\"url\" new>",
+          "C. &lt;a href=\"url\" target=\"_blank\">",
+          "D. &lt;a href=\"url\">"
+        ],
+        "rightAnswer": "C",
+        "quiz": "Cách nào bạn có thể mở một liên kết trong một tab mới hoặc một cửa sổ mới?",
+        "a": "A. &lt;a href=\"url\" target=\"new\">",
+        "b": "B. &lt;a href=\"url\" new>",
+        "c": "C. &lt;a href=\"url\" target=\"_blank\">",
+        "d": "D. &lt;a href=\"url\">"
+      }
+    ],
+    "css": "lol"
+  }
+}
